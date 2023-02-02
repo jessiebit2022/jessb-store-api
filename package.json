@@ -2,9 +2,9 @@
   "name": "jessb-store-api",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "server.js",
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
